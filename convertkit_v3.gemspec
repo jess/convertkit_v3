@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Wrapper for convert kit}
   spec.description   = %q{Gem wrapper for convertkit}
-  spec.homepage      = "www.github.com/jess/convertkit_v3"
+  spec.homepage      = "http://www.github.com/jess/convertkit_v3"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
